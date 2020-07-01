@@ -41,10 +41,15 @@ tag: home
                 <div class="netsys-project">
                     {% if section.type == "section" %}
                         <h2> {{ section.title }}</h2>
+                        <p>
                     {% elsif section.type == "subsection" %}
                         <h3> {{ section.title }}</h3>
+                        <p>
+                    {% elsif section.type == "point" %}
+                        <p>
+                        <b> {{ section.title }}</b>
                     {% endif %}
-                    <p>{{ section.text }}</p>
+                    {{ section.text }}</p>
                 </div>
             {% endfor %}
         </div>
