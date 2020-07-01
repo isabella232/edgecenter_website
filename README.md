@@ -1,6 +1,6 @@
-# NetSys Website
+# EdgeCenter Website
 
-This repo houses the code for our website.
+This repo houses the code for our website
 
 To build it you will need the following:
 - ruby >= 1.9.0
