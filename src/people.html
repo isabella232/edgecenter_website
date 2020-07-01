@@ -94,6 +94,7 @@ title: People
         {% unless type.name == "faculty" %}
             {% assign t_ctr = aidx %}
             {% unless type.name == "staff" %}
+            {% continue %} <!-- skip non staff -->
             <h4 id="alumni" class="col-md-12">{{ type.name | capitalize }} Alumni</h2>
             {% endunless %}
             {% if type.name == "staff" %}
