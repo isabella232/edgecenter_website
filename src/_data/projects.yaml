@@ -423,7 +423,7 @@
         featured: true
     }
     - {
-        name: "Source code",
+        name: "Source Code",
         url: "https://github.com/kubernetes/kubernetes/pull/68081",
         type: code,
         featured: true
