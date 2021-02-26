@@ -83,7 +83,8 @@
   homepage: https://www.eecs.berkeley.edu/~clan
 
 - name: Murphy McCauley
-  c_cate: grad
+  c_affil: Mount Holyoke
+  c_cate: alumni
   c_before: grad
   pic_url: static/img/people/murphy.jpg
   email: murphy.mccauley@gmail.com
