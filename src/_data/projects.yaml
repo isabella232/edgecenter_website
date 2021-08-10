@@ -219,8 +219,14 @@
   stage_order: 2
   edge_project: pancake 
   participants: "Lloyd Brown"
+  is_ongoing: true
   desc: >
-    Pancake is the first system to protect key-value stores from access pattern leakage attacks with small constant factor bandwidth overhead. Pancake uses a new approach, that we call frequency smoothing, to transform plaintext accesses into uniformly distributed encrypted accesses to an encrypted data store. We show that frequency smoothing prevents access pattern leakage attacks by passive persistent adversaries in a new formal security model. Pancake is integrated into three key-value stores used in production clusters. Pancake achieves 229× better throughput than non-recursive Path ORAM — within 3–6× of insecure baselines for these key-value stores.
+    Pancake is the first system to protect key-value stores from access pattern leakage attacks with small constant
+    factor bandwidth overhead. Pancake uses a new approach, that we call frequency smoothing, to transform plaintext
+    accesses into uniformly distributed encrypted accesses to an encrypted data store. We show that frequency
+    smoothing prevents access pattern leakage attacks by passive persistent adversaries in a new formal security model.
+    Pancake is integrated into three key-value stores used in production clusters. Pancake achieves 229× better
+    throughput than non-recursive Path ORAM — within 3–6× of insecure baselines for these key-value stores.
   links:
   - {
       name: "Paper",
@@ -234,7 +240,6 @@
       type: code,
       featured: false
   }
-
 
 - title: Persimmon
   is_ongoing: true
