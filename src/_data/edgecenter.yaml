@@ -1,6 +1,6 @@
 - title: Overview
   type: section
-  text: With generous funding from Intel and VMware, we have formed a new research center at Berkeley on Edge Computing. This effort is led by professors Sylvia Ratnasamy and Scott Shenker, and includes the entire <a href="https://netsys.cs.berkeley.edu">NetSys</a> group of roughly twelve graduate students and four postdocs and staff. Please see our <a href="https://netsys.cs.berkeley.edu/people.html">people</a>, <a href="projects/">project</a>, and <a href="https://netsys.cs.berkeley.edu/publications.html">publication</a> pages.
+  text: With generous funding from Intel and VMware, we have formed a new research center at Berkeley on Edge Computing. This effort is led by professors Sylvia Ratnasamy and Scott Shenker, and includes the entire <a href="https://netsys.cs.berkeley.edu">NetSys</a> group of roughly twelve graduate students and four postdocs and staff. Please see our <a href="people.html">people</a>, <a href="projects/">project</a>, and <a href="publications.html">publication</a> pages.
 
 - title: What is Edge Computing?
   type: section
